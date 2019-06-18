@@ -1,37 +1,30 @@
-Krish Portfolio
-This repo contains an easy-to-customize personal dev portfolio template that was created with Sass and JavaScript. It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The site is static and comes production ready if you just want to add your information and go. Alternatively, you can edit styles, colours, and scripts fairly easily. The site was built as modular as possible to make it easy to shift around styles and content.
+Krishs Portfolio
+This repo contains an easy-to-customize personal portfolio.
 
-To view a live demo, click here.
 
-Looking for a blog template? Checkout DevBlog.
+Welcome to the Ics4U-2019-winter ! My top 10 and more modules I did in this class are:
 
-Features
-Gulp ready (compiles Sass and minifies JS)
-Sass ready with lots of commenting
-Fully responsive
-Comes with Bootstrap grid system
-Easy colour changes can be done through simple variable edits
-Contents
-Setup and Configuration
-Making Edits / Customizing the Template
-Using the Template As Is
-Customization and Editing
-General
-Images
-Header Section
-Lead Section
-About Section
-Experience Section
-Education Section
-Projects Section
-Skills Section
-Contact Section
-Footer Section
-Optional Sections
-Changelog
-License
-Setup and Configuration
-The setup required can be broken into two types:
+Natural simulations
+
+Algorithms
+
+Intro to JS: Drawing and Animation
+
+Intro to HTML/CSS: Making webpages
+
+HTML/JS: Making webpages interactive
+
+Intro to SQL: Querying and managing data
+
+Advanced JS: Games & Visualizations
+
+HTML/JS: Making webpages interactive with jQuery
+
+Basic Algorithm Scripting
+
+Object Oriented Programming
+
+Intermediate Algorithm Scripting
 
 If you want to make edits or customize the template
 If you just want to add your information as use as is
