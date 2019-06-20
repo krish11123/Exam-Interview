@@ -4,25 +4,25 @@ This portfolio contains an easy-to-customize personal portfolio.
 
 Welcome to the Ics4U-2019-winter ! My top 10 and more modules I did in this class are:
 
-Natural simulations
+1. Natural simulations
 
-Algorithms
+2. Algorithms
 
-Intro to JS: Drawing and Animation
+3. Intro to JS: Drawing and Animation
 
-Intro to HTML/CSS: Making webpages
+4. Intro to HTML/CSS: Making webpages
 
-HTML/JS: Making webpages interactive
+5. HTML/JS: Making webpages interactive
 
-Intro to SQL: Querying and managing data
+6. Intro to SQL: Querying and managing data
 
-Advanced JS: Games & Visualizations
+7. Advanced JS: Games & Visualizations
 
-HTML/JS: Making webpages interactive with jQuery
+8. HTML/JS: Making webpages interactive with jQuery
 
-Basic Algorithm Scripting
+9. Basic Algorithm Scripting
 
-Object Oriented Programming
+10. Object Oriented Programming
 
-Intermediate Algorithm Scripting
+11. Intermediate Algorithm Scripting
 
