@@ -5,7 +5,7 @@ This portfolio contains an easy-to-customize personal portfolio.
 Welcome to the Ics4U-2019-winter ! My top 10 and more modules I did in this class are:
 
 1. Natural simulations
-
+![](unnamed.jpg)
 2. Algorithms
 
 3. Intro to JS: Drawing and Animation
