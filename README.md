@@ -12,7 +12,7 @@ Git hub supports the html image tag. But I chose to use the relitive pass like u
 2. Algorithms
 
 3. Intro to JS: Drawing and Animation
-
+![](unnamed(4).jpg)
 4. Intro to HTML/CSS: Making webpages
 
 5. HTML/JS: Making webpages interactive
