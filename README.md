@@ -22,7 +22,7 @@ Git hub supports the html image tag. But I chose to use the relitive pass like u
 7. Advanced JS: Games & Visualizations
 ![](gamesndvis.jpg)
 8. HTML/JS: Making webpages interactive with jQuery
-![]()
+![](lbbfsaojdbvcjsdbvv.jpg)
 9. Basic Algorithm Scripting
 
 10. Object Oriented Programming
