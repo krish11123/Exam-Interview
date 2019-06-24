@@ -14,7 +14,7 @@ Git hub supports the html image tag. But I chose to use the relitive pass like u
 3. Intro to JS: Drawing and Animation
 ![](Jsdrawingandanimation.jpg)
 4. Intro to HTML/CSS: Making webpages
-
+![](V)
 5. HTML/JS: Making webpages interactive
 
 6. Intro to SQL: Querying and managing data
