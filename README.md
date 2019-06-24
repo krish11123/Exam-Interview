@@ -3,7 +3,7 @@ This portfolio contains an easy-to-customize personal portfolio.
 
 
 
-Welcome to the Ics4U-2019-winter! All the modules on thi have fully been completed by me. My top 10 and more modules I did in this class are:
+Welcome to the Ics4U-2019,sem 2, All the modules on thsi have fully been completed by me. My top 10 and more modules I did in this class are:
 
 
 Git hub supports the html image tag. But I chose to use the relitive pass like used in html comand line. It has to made sure that there is no space in file name becaus ethen you will need to put in a %20 fro it to work. 
