@@ -47,9 +47,12 @@ In this fully completed module HTML/JS: Making webpages interactive with jQuery 
 ![](lbbfsaojdbvcjsdbvv.jpg)
 9. Basic Algorithm Scripting
 
-In this completed free code camp module I got a better understanding of the technique of breaking things down into chunks and then solving in parts. This was learned by using this module. It also helps in problem solving as with the chunks of learning. 
+In this completed free code camp module of algorithm scripting I got a better understanding of the technique of breaking things down into chunks and then solving in parts. This was learned by using this module. It also helps in problem solving as with the chunks of learning. 
 
 10. Object Oriented Programming
 
+In this completed free code camp module of Object Oriented Programming I learned further about organizing code into object definitions. These are classes and what they do is group data together. This module really help me with object oriented change in the summative and with the change I had to make to get full marks. 
+
 11. Intermediate Algorithm Scripting
 
+I personally find object oriented learning very interesting and would like to learn and go into further detail this summer I will definitely be incorporating computer programming and or science in the future for my own use and to help understand the language more. I comes in handy with other things, like the use of electronics and problem solving and the object oriented learning with the webpages will be very useful in the future with the way technology is used in today's day and age. It could be very useful with advertising. 
