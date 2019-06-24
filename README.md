@@ -38,6 +38,8 @@ I have also done all of the HTML/JS: Making Webpages Interactive module on Khan 
 In the intro to SQL: Querying and managing I have fully finished the module. I learned to use SQL to store, query, and manipulate data. In this I felt like it was linked to business and accounting from the information that was dealt with and interacted with. This may be very helpful with the business, accounting type of work. 
 
 7. Advanced JS: Games & Visualizations
+
+In this module Advanced JS: Games & Visualizations a lot of different techniques were taught for us to understand multi scene programs and scored games. In the photo right here we have a snippet of memory card game that I made in a project. This was a combination of most of the things that were learned. 
 ![](gamesndvis.jpg)
 8. HTML/JS: Making webpages interactive with jQuery
 ![](lbbfsaojdbvcjsdbvv.jpg)
