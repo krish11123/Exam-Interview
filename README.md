@@ -11,6 +11,9 @@ Git hub supports the html image tag. But I chose to use the relitive pass like u
 
 1. Natural simulations
 
+
+Another big portion of this course was on learning Natural Simulations by Dan Shiffman on Khan Academy. Main stuff that was went through was noise vectors, oscillations and other things. The image I have right here is of the project paint splatter and I think is my best piece of work because I did not understand how to do this but then I viewed others and got inspired and used other pain splatter projects as a template of what to do then learned and did the project and I think it was done very well and more interactive than others. Even though I used others code to help me it taught me a lot and about not just doing the work but doing the work to learn and do more than is expected.  You can see the code for this project on the left. 
+
 ![](unnamed.jpg)
 2. Algorithms
 
@@ -23,6 +26,9 @@ I have also finished the Intro to JS: Drawing and Animation lesson on Khan Acade
 
 ![](Jsdrawingandanimation.jpg)
 4. Intro to HTML/CSS: Making webpages
+
+
+Furthermore, I have finished the HTML/JS: Making webpages module on Khan Academy.This module is essentially used to help someone complete this webpage right here. I also found the styling aspect very intriguing and was fun to do and deal with. Text properties are also very interesting. 
 
 5. HTML/JS: Making webpages interactive
 
