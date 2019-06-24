@@ -42,8 +42,12 @@ In the intro to SQL: Querying and managing I have fully finished the module. I l
 In this module Advanced JS: Games & Visualizations a lot of different techniques were taught for us to understand multi scene programs and scored games. In the photo right here we have a snippet of memory card game that I made in a project. This was a combination of most of the things that were learned. 
 ![](gamesndvis.jpg)
 8. HTML/JS: Making webpages interactive with jQuery
+
+In this fully completed module HTML/JS: Making webpages interactive with jQuery we learn a further understanding on how to make your webpage more interactive.  In the photo I have a snippet of a project were I had to take a photo put two interactive objects in the objects on the screen. So when the screen is clicked the objects move and it creates a noise. 
 ![](lbbfsaojdbvcjsdbvv.jpg)
 9. Basic Algorithm Scripting
+
+In this completed free code camp module I got a better understanding of the technique of breaking things down into chunks and then solving in parts. This was learned by using this module. It also helps in problem solving as with the chunks of learning. 
 
 10. Object Oriented Programming
 
